@@ -5,8 +5,9 @@
 ---
 
 <!-- Profile Views & Trophies -->
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=nisal-a&label=👀 Profile%20Views&color=0e75b6&style=flat" alt="nisal-a" /> 
+<p align="center">
+  <img src="https://github.com/nisal-a/nisal-a/blob/main/WhatsApp%20Image%202025-08-18%20at%2020.52.24_902f8f5c.jpg" 
+       alt="Nisal Abhishek" width="400" style="border-radius: 20px;"/>
 </p>
 
 <p align="center">
