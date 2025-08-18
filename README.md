@@ -1,24 +1,61 @@
-<h1 align="center">Hi 👋, I'm Nisal Abhishek</h1>
-<h3 align="center">A passionate frontend developer from Sri Lanka</h3>
+<!-- Profile Header -->
+<h1 align="center">✨ Hi there, I'm Nisal Abhishek 👋</h1>
+<h3 align="center">🚀 A Passionate Frontend Developer from Sri Lanka 🌴</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nisal-a&label=Profile%20views&color=0e75b6&style=flat" alt="nisal-a" /> </p>
+---
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nisal-a" alt="nisal-a" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/nisal abhishek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nisal abhishek" height="30" width="40" /></a>
-<a href="https://instagram.com/nisal_abhishek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nisal_abhishek" height="30" width="40" /></a>
+<!-- Profile Views & Trophies -->
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=nisal-a&label=👀 Profile%20Views&color=0e75b6&style=flat" alt="nisal-a" /> 
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+<p align="center">
+  🏆 <a href="https://github.com/ryo-ma/github-profile-trophy">Github Profile Trophies</a> 🏆<br/>
+  <img src="https://github-profile-trophy.vercel.app/?username=nisal-a&theme=onedark&row=1&column=6" alt="nisal-a" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nisal-a&show_icons=true&locale=en&layout=compact" alt="nisal-a" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nisal-a&show_icons=true&locale=en" alt="nisal-a" /></p>
+<!-- Social Media -->
+<h2 align="center">🌐 Connect with Me</h2>
+<p align="center">
+  <a href="https://fb.com/nisal abhishek" target="blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+  </a>
+  <a href="https://instagram.com/nisal_abhishek" target="blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="https://twitter.com/" target="blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+  </a>
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nisal-a&" alt="nisal-a" /></p>
+---
+
+<!-- Languages and Tools -->
+<h2 align="center">⚒️ Languages & Tools</h2>
+<p align="center"> 
+  <img src="https://skillicons.dev/icons?i=c,java,php,python,javascript,html,css,react,nodejs,django,mysql,photoshop" />
+</p>
+
+---
+
+<!-- GitHub Stats -->
+<h2 align="center">📊 GitHub Stats & Activity</h2>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nisal-a&show_icons=true&locale=en&layout=compact&theme=radical" alt="nisal-a" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nisal-a&show_icons=true&theme=radical" alt="nisal-a" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nisal-a&theme=radical" alt="nisal-a" />
+</p>
+
+---
+
+<h2 align="center">🔥 Fun Fact</h2>
+<p align="center">💡 I believe in <b>“Code ⌨️, Coffee ☕, and Creativity 🎨”</b></p>
 
