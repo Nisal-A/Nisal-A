@@ -18,9 +18,6 @@ Sabaragamuwa University of Sri Lanka
 - Databases: MySQL, PostgreSQL
 - Tools: Git, GitHub, VS Code
 
-## Projects
-- **Project-Name-1** — Short one-line description.  
-- **Project-Name-2** — Short one-line description.
 
 ## Contact
 - Email: `nisal.abhishek6@gmail.com`  
