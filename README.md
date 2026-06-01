@@ -6,7 +6,7 @@ Sabaragamuwa University of Sri Lanka
 ---
 
 ## About Me
-Hi — I'm Nisal. I'm studying Information Systems at Sabaragamuwa University of Sri Lanka. I'm interested in building useful software, learning data systems, and improving through practical projects and collaboration.
+I'm studying Information Systems at Sabaragamuwa University of Sri Lanka. I'm interested in building useful software, learning data systems, and improving through practical projects and collaboration.
 
 ## Education
 **B.Sc. (Hons) — Information Systems**  
@@ -14,7 +14,7 @@ Sabaragamuwa University of Sri Lanka
 
 ## Skills
 - Programming: Python, JavaScript, SQL
-- Web: HTML, CSS, Django (or Flask)
+- Web: HTML, CSS, Django
 - Databases: MySQL, PostgreSQL
 - Tools: Git, GitHub, VS Code
 
